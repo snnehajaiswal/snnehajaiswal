@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend applications<br>👯 I’m looking to collaborate on Frontend<br>🌱 I’m currently learning Full-Stack Development<br>💬 Ask me about  data structures , java , C , C++ , JavaScript<br>
+🔭 I’m currently working on FullStack applications<br>👯 I’m looking to collaborate on FullStack Application<br>🌱 I’m currently learning Java Development<br>💬 Ask me about  data structures , java , C , C++ , JavaScript<br>
 
 
 ## 🌐 Socials:
